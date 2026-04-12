@@ -43,7 +43,7 @@ social:
     - https://github.com/W4llyw # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://linkedin.com/in/keenen-garnett-ab1714120
+    - https://www.linkedin.com/in/keenen-garnett-ab1714120
 
 plugins:
   - jekyll-feed
